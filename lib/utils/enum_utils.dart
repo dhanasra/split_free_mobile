@@ -1,0 +1,19 @@
+enum COLOR_TYPE {
+  INFO,
+  WARNING,
+  ERROR,
+  DEFAULT,
+  PRIMARY,
+  SUCCESS,
+  TRANSPARENT,
+  WHITE,
+  BLACK
+}
+
+enum SUPPORTED_LOCALE {
+  EN,
+  TA,
+  MA,
+  KA,
+  TE
+}
